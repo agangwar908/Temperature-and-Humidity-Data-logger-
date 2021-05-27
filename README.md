@@ -1,6 +1,6 @@
 # Temperature And Humidity Data Logger
 
-In this project, we ahave made a temperature and relative humidity data logger. Arduino is the brain of this project. DHT22 sensor is used for sensing temperature and relative humidity. Arduino Uno is programmed to read temperature, humidity values from DHT22 sensor and save it to a file in an SD Card. So whenever required we can take the SD Card for viewing data. Here we will take data from SD card and import it to excel to plot graphs.
+In this project, we have made a temperature and relative humidity data logger. Arduino is the brain of this project. DHT22 sensor is used for sensing temperature and relative humidity. Arduino Uno is programmed to read temperature, humidity values from DHT22 sensor and save it to a file in an SD Card. So whenever required we can take the SD Card for viewing data. Here we will take data from SD card and import it to excel to plot graphs.
 
 ## Components Required
 
