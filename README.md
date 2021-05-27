@@ -13,8 +13,12 @@ In this project, we ahave made a temperature and relative humidity data logger. 
 
 ## Circuit Diagram
 
+<p align='center' ><img src=/images/c.PNG></p>
+
 
 ## Micro SD Card Reader Module – Pinout
+
+<p align='center' ><img src=/images/2.PNG></p>
 
 
 ## Explanation
@@ -31,4 +35,7 @@ First of all, we will connect the SD Card module to the Arduino. Arduino can do 
 8. Connect VCC of DHT22 to 5V output of Arduino
 9. Ground to ground of Arduino
 10. Data pin of DHT22 to pin 8 of Arduino
+
+<p align='center' ><img src=/images/3.PNG></p>
+
 
